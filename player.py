@@ -8,5 +8,5 @@ class Player:
         self.inventory.append(item)
       
     def 
-  test
+  
   
